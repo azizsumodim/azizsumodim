@@ -1,0 +1,13 @@
+<img src="https://marvel-b1-cdn.bc0a.com/f00000000219322/images.squarespace-cdn.com/content/v1/5eac4cadbad0a7612d8c693a/1632844348350-YVID9Z3QSJ09U8BTWXWI/madison+wi.jpg?format=1500w">
+
+
+- 👋 Hi, I’m @azizsumodim
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+azizsumodim/azizsumodim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
